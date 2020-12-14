@@ -2,7 +2,7 @@
 Presentations of Neuroscience Articles
 
 
-### Estimating the impact of structural directionality
+# 1.Estimating the impact of structural directionality
 
 
 <p align="center">
@@ -10,7 +10,7 @@ Presentations of Neuroscience Articles
  </p>
 
 
-### Stochastic synchronization of dynamics on the human connectome
+# 2.Stochastic synchronization of dynamics on the human connectome
 
 
 <p align="center">
