@@ -1,5 +1,5 @@
 
-# 1.Estimating the impact of structural directionality
+# 3.Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays
 
 
 <p align="center">
